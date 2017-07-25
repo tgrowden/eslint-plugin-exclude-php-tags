@@ -1,6 +1,6 @@
 # eslint-plugin-exclude-php-tags
 
-A preprocessor to remove PHP tags to prevent "Unexpected token <" errors in .phtml files.
+A preprocessor to remove PHP tags to prevent "Unexpected token <" errors in .phtml, .php, .ctp files.
 
 ## Under the hood
 
